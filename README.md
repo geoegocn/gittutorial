@@ -20,3 +20,7 @@ git stash
 git pop stash
 
 
+git add remote origin https://140.82.114.3/geoegocn/gittutorial.git
+
+
+
