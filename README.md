@@ -1,2 +1,22 @@
-this is part1
+This is part1
 let's start git use
+
+# git connect
+git add remote 
+git push
+
+# git commit
+git add 
+git commit -m ""
+git commit -am ""
+
+# git branch
+git branch
+git checkout
+git chechout -b
+
+# git stash
+git stash
+git pop stash
+
+
