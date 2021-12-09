@@ -1,21 +1,21 @@
 This is part1
 let's start git use
 
-# git connect
+### git connect
 git add remote 
 git push
 
-# git commit
+### git commit
 git add 
 git commit -m ""
 git commit -am ""
 
-# git branch
+### git branch
 git branch
 git checkout
 git chechout -b
 
-# git stash
+### git stash
 git stash
 git pop stash
 
